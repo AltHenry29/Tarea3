@@ -22,4 +22,4 @@ Se crearon 3 modulos, en los cuales 2 se aplicaron con encapsulamiento:
 
 En los 2 Ultimos ejercicios se aplico encapsulamiento de objetos por modificardor de acceso (private).
 
-Se icluira el PDF en este lugar tambien para que pueda revisar la tarea.
+Se incluira el PDF en este lugar tambien para que pueda revisar la tarea.
